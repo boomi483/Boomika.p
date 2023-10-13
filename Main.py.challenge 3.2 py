@@ -1,0 +1,6 @@
+SQL>declare
+pi constant number (4,2):-3,14;
+radius number(25,2);
+area number (14,2);
+begin
+radius:-3
