@@ -1,0 +1,4 @@
+open varchar2(8);
+client_ no varchar2(16);
+Name varchar2 (20);
+Balance number (10,2);
