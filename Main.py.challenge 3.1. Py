@@ -1,0 +1,3 @@
+IF deleting THEN
+open;'delete';
+END IF;
